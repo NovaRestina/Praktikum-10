@@ -1,7 +1,9 @@
 # Praktikum-10
 
 Nama    : Nova Restina Maharani
+
 Kelas   : TI.22.B2
+
 NIM     : 312210525
 
 # Python String
@@ -11,11 +13,17 @@ NIM     : 312210525
 txt = 'Hello World'
 
 • Hitung jumlah karakternya
+
 • Ambil karakter terakhir
+
 • Ambil karakter index ke-2 sampai index ke-4 (llo)
+
 • Hilangkan spasi pada text tersebut (HelloWorld)
+
 • Ubah text menjadi huruf besar
+
 • Ubah text menjadi huruf kecil
+
 • Ganti karakter H dengan karakter J
 
 
@@ -59,8 +67,8 @@ txt = 'Hello World'
 Memmasukkan variable ke dalam string, dengan menambahkan kurung kurawal {} untuk menetapkan variabel yang sudah tertulis.
  
     > umur = 24
-    > txt = 'Hello, nama saya john, dan > > umur saya adalah... tahun'
-    > print(txt.format(umur))
+      txt = 'Hello, nama saya john, dan > > umur saya adalah... tahun'
+      print(txt.format(umur))
 
 
 ## Hasil Output
